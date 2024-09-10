@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#8D99AE"                # Very muted blue-gray for interactive elements
+backgroundColor = "#F7F6F2"             # Very light beige for the main background
+secondaryBackgroundColor = "#E8E8E4"    # Very soft pastel yellow for secondary elements
+textColor = "#2F2F2F"                   # Soft dark grey for text
+font = "sans serif"
+
+[client]
+showSidebarNavigation = false

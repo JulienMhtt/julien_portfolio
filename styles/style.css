@@ -1,0 +1,13 @@
+.custom-paragraph {
+    line-height: 1.5;  /* Adjust this value to set the line height */
+    margin-bottom: 10px;  /* Adjust this value to set the space between paragraphs */
+}
+
+
+.custom-container {
+    background-color: #f0f0f0;  /* Light grey background color */
+    padding: 20px;  /* Padding inside the container */
+    border: 1px solid #d4d4d4;  /* Border around the container */
+    border-radius: 5px;  /* Rounded corners */
+    margin-bottom: 20px;  /* Space below the container */
+}
